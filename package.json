@@ -17,8 +17,8 @@
     "graphile-build-pg": "^4.5.0",
     "graphql": "^14.4.1",
     "pg": "^6.1.0",
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-helmet": "6.1.0",
     "react-refresh": "0.8.2",
     "typescript": "^3.8.3"
